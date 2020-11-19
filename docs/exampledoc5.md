@@ -1,6 +1,6 @@
 ---
 id: doc5
-title: Fifth Document
+title: 5番目のドキュメント
 ---
 
-Another one
+もう一つ
